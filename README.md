@@ -1,11 +1,18 @@
 <div align=center>
   
-  <h3>ABOUT ME</h3>
+  <h3>✨ ABOUT ME ✨</h3>
+  <hr width =200 align= center>
+  <h5>Department of Computer Science, College of Engineering, Sookmyung Women’s University</h5>
+  <a href=https://jazzy-lavender-656.notion.site/b1c6a5678a3d4586b73695bc8f0cc002?v=8594e54a7aa2450c92e6d1e2633d7448&pvs=4></a><h5>More about Haeun Yun</h5>
+  
+  <br>
+  <br>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={haeun728})](https://solved.ac/{haeun728})
 
   
   <h3>🛠️ TECH STACKS 🛠️</h3>
+  <hr width =200 align= center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -29,6 +36,7 @@
   <br>
   <br>
   <h3>☎️ CONTACT ☎️</h3>
+  <hr width =200 align= center>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:haeunn728@gmail.com)](mailto:haeunn728@gmail.com)
   <a href="https://www.instagram.com/haeunyun__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/haeunyun__"/></a>
