@@ -3,7 +3,7 @@
   <h3>✨ ABOUT ME ✨</h3>
   <hr width =200 align= center>
   <h5>Department of Computer Science, College of Engineering, Sookmyung Women’s University</h5>
-  <a href="https://jazzy-lavender-656.notion.site/b1c6a5678a3d4586b73695bc8f0cc002?v=8594e54a7aa2450c92e6d1e2633d7448&pvs=4" style="color:black">More about...</a>
+  <a href="https://jazzy-lavender-656.notion.site/b1c6a5678a3d4586b73695bc8f0cc002?v=8594e54a7aa2450c92e6d1e2633d7448&pvs=4">More about...</a>
   <br>
   <br>
   
