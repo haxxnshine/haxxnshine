@@ -6,8 +6,6 @@
   <a href="https://jazzy-lavender-656.notion.site/b1c6a5678a3d4586b73695bc8f0cc002?v=8594e54a7aa2450c92e6d1e2633d7448&pvs=4">More about...</a>
   <br>
   <br>
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={haeun728})](https://solved.ac/{haeun728})
 
   
   <h3>🛠️ TECH STACKS 🛠️</h3>
